@@ -6,4 +6,29 @@
 
 body {
     background-color: #333333;
+    color: #FFD700;
+    height: 100vh;
+}
+
+.main-header {
+    height: 200px;
+    background-color: #8B0000;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.title {
+    font-size: 3rem;
+}
+
+.sub-title {
+    font-size: 1.5rem;
+    font-style: italic;
+}
+
+.info {
+    
 }
