@@ -9,3 +9,8 @@ An application made to help conjoin my love for coding with my love for the popu
 * A section for noting the biblical references I see or discover by playing through the game.
 * Tips for my future self, how to find secrets, etc etc.
 * More to be added as I see fit.
+
+# Day 1 MVP:
+* Main page with styling similar to Binding of Isaac
+* Appropriate title.
+* Utilize Themed color pallete. #8B0000(Dark Red), #333333(Dark Gray), #800080(Deep Purple), #006400(Dark Green), #191970(Midnight Blue), #FFD700(Golden Yellow), #654321(Dark Brown).
